@@ -27,8 +27,20 @@ aside {
     float: right;
    }
 
-.footer {
+.footer-link {
 	text-decoration: none;
 	color: silver;
+	padding: 6px;
 
+}
+.menu {
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+.conc {
+	color: #4B0082;
+	font-size: 14px;
+	font-family: verdana;
+	font-style: italic;
 }
